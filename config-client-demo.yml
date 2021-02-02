@@ -21,3 +21,6 @@ spring:
     name: config-server-test
 config:
   info: config info test
+  
+aa: "嘻嘻"
+
